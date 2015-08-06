@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DotsView">
+        <attr name="dotsNum" format="integer" />
+        <attr name="ringRadius" format="integer" />
+        <attr name="dotsPadding" format="integer" />
+        <attr name="dotTextMargin" format="integer" />
+        <attr name="dotTextSize" format="float" />
+        <attr name="dotSelected" format="integer" />
+    </declare-styleable>
+</resources>
